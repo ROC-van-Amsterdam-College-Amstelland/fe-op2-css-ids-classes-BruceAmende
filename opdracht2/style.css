@@ -13,3 +13,70 @@ img{
 }
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
+
+
+
+header main footer{
+
+    width: 100%;
+}
+
+header footer{
+    height: 20%;
+}
+
+main{
+    
+    background-color: green;
+}
+
+#logo1{
+
+    margin: 20px;
+}
+
+#logo2{
+
+    width: 400px;
+
+}
+
+#logo3{
+    border: solid 1px black;
+}
+#nav1 a{
+    display: flex;
+    text-decoration: none
+}
+
+#ul1{
+    display: flex;
+    list-style-type:none;
+}
+.linkh{
+    padding: 20px;
+}
+
+
+#nav2 a{
+    text-decoration: none
+}
+
+#ul2{
+
+    list-style-type:none;
+
+
+}
+
+header{
+    background-color: peru;
+}
+
+footer{
+    background-color: purple;
+}
+h1{
+    font-size: 50px;
+    background-color: red;
+}
